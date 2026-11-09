@@ -27,7 +27,7 @@ privacy_policy/wagabati /تطبيق للأعمال التجارية  يعمل ع
 
 التواصل
 للأسئلة حول هذه السياسة أو طلب إزالة/نسخ بياناتك المحلية:
-الهاتف: +213660672658 — واتساب: 213660672658
+واتساب: 213660672658
 
 Privacy Policy (English)
 Wajabati is an offline point-of-sale app. All sales, product, debt, and report data stays on your device; backups go to a folder you pick via the system file picker (SAF). We collect no personal data and run no servers. The device code is used only to bind a paid license. Ads are served by Google AdMob (see Google's privacy policy). Permissions: camera (barcode/photos), Bluetooth (thermal printing), Internet (ads only). Contact: +213660672658.
